@@ -3,6 +3,7 @@ plugin = "feed"
 url = "https://w3teal.bearblog.dev/feed/"
 n = 7
 show_date = true
+date_format = "%B %d, %Y"
 append_text = "\n\nMore on [w3teal.bearblog.dev](https://w3teal.bearblog.dev/posts/)"
 
 [sections.last_updated]
