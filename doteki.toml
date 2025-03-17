@@ -7,5 +7,5 @@ append_text = "\n\nMore on [w3teal.bearblog.dev](https://w3teal.bearblog.dev/pos
 
 [sections.last_updated]
 plugin = "current_date"
-format = "%F %d%S, %Y"
+format = "%B %d, %Y (%H:%M)"
 append_text = "."
