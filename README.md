@@ -13,4 +13,6 @@ More on [w3teal.bearblog.dev](https://w3teal.bearblog.dev/posts/)
 <!-- blog end -->
 
 <p align="right">
-<sub>Last updated on <!-- last_updated start -->March 17, 2025 | 09:52.<!-- last_updated end --></sub> <br>
+<sub>Last updated on <!-- last_updated start -->March 17, 2025 | 09:55.<!-- last_updated end --></sub> <br>
+
+<sub>Powered by https://doteki.org</sub></p>
