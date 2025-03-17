@@ -1,3 +1,10 @@
 [sections.blog]
 plugin = "feed"
 url = "https://w3teal.bearblog.dev/feed/"
+append_text = "\n\nMore on [w3teal.bearblog.dev](https://w3teal.bearblog.dev/posts/)"
+
+[sections.last_updated]
+plugin = "current_date"
+format = "%A, %d %B %Y"
+prepend_text = "Last updated on "
+append_text = "."
