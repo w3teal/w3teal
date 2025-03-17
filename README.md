@@ -1,11 +1,13 @@
 ## Latest posts
 
 <!-- blog start -->
-- [Budayakan Bahasa Indonesia](https://w3teal.bearblog.dev/budayakan-bahasa-indonesia/)
-- [Extended Starboy](https://w3teal.bearblog.dev/extended-starboy/)
-- [Starboy](https://w3teal.bearblog.dev/starboy/)
-- [Exam Mid](https://w3teal.bearblog.dev/exam-mid/)
-- [Waiting till approved](https://w3teal.bearblog.dev/waiting-till-approved/)
+- [Budayakan Bahasa Indonesia](https://w3teal.bearblog.dev/budayakan-bahasa-indonesia/) · 2025-03-16
+- [Extended Starboy](https://w3teal.bearblog.dev/extended-starboy/) · 2025-03-16
+- [Starboy](https://w3teal.bearblog.dev/starboy/) · 2025-03-16
+- [Exam Mid](https://w3teal.bearblog.dev/exam-mid/) · 2025-03-16
+- [Waiting till approved](https://w3teal.bearblog.dev/waiting-till-approved/) · 2025-03-16
+- [Lorem ipsum](https://w3teal.bearblog.dev/lorem-ipsum/) · 2025-03-16
+- [Does this work?](https://w3teal.bearblog.dev/test/) · 2025-03-16
 
 More on [w3teal.bearblog.dev](https://w3teal.bearblog.dev/posts/)
 <!-- blog end -->
