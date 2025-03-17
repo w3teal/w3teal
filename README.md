@@ -1,4 +1,4 @@
-## Latest blog posts
+## Latest posts
 
 <!-- blog start -->
 - [Budayakan Bahasa Indonesia](https://w3teal.bearblog.dev/budayakan-bahasa-indonesia/)
