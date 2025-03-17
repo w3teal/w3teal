@@ -1,3 +1,5 @@
+credits = "<p align="right">Powered by https://doteki.org</p>"
+
 [sections.blog]
 plugin = "feed"
 url = "https://w3teal.bearblog.dev/feed/"
