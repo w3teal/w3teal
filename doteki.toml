@@ -1,4 +1,4 @@
-credits = "<p align='right'>Powered by https://doteki.org</p>"
+credits = "<p align='right'><sub>Powered by https://doteki.org</sub></p>"
 
 [sections.blog]
 plugin = "feed"
