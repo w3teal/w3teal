@@ -1,7 +1,7 @@
 ## Latest posts
 
 <!-- blog start -->
-- [My attempt at minimal CSS](https://w3teal.bearblog.dev/my-attempt-at-minimal-css/) · March 21, 2025 | 08:06
+- [My attempt at minimal CSS](https://w3teal.bearblog.dev/my-attempt-at-minimal-css/) · March 25, 2025 | 02:45
 - [Textonly favicon](https://w3teal.bearblog.dev/textonly-favicon/) · March 20, 2025 | 06:30
 - [I never paying (Me and proprietary software pt. 2)](https://w3teal.bearblog.dev/i-never-paying-me-and-proprietary-software-pt-2/) · March 19, 2025 | 08:56
 - [Rewrite my CSS theme](https://w3teal.bearblog.dev/rewrite-my-css-theme/) · March 21, 2025 | 01:09
@@ -13,7 +13,7 @@ More on [w3teal.bearblog.dev](https://w3teal.bearblog.dev/posts/)
 <!-- blog end -->
 
 <p align="right">
-<sub>Last updated on <!-- last_updated start -->March 25, 2025 | 02:17.<!-- last_updated end --></sub> <br>
+<sub>Last updated on <!-- last_updated start -->March 25, 2025 | 03:23.<!-- last_updated end --></sub> <br>
 <sub>Powered by https://doteki.org</sub>
 </p>
 
